@@ -1,0 +1,80 @@
+[
+  {
+    "key": "m01",
+    "n": 1,
+    "id": "DATA-L1-M01",
+    "title": "Data Pipeline Fundamentals",
+    "dir": "m01-data-pipeline-fundamentals",
+    "dates": "Fri 16 – Sun 18 Oct 2026",
+    "week": 3,
+    "academySlug": "month-1-data-pipeline-fundamentals",
+    "gammaSlug": "month-1-data-pipeline-fundamentals-gamma-script",
+    "summary": "ETL/ELT concepts and pipeline patterns orchestrated with Apache Airflow.",
+    "headlineMetric": "working DAGs"
+  },
+  {
+    "key": "m02",
+    "n": 2,
+    "id": "DATA-L1-M02",
+    "title": "SQL & Data Modeling",
+    "dir": "m02-sql-data-modeling",
+    "dates": "Fri 23 – Sat 24 Oct 2026",
+    "week": 4,
+    "academySlug": "month-2-sql-data-modeling",
+    "gammaSlug": "month-2-sql-data-modeling-gamma-script",
+    "summary": "Advanced SQL and dimensional modelling with star and snowflake schemas.",
+    "headlineMetric": "star schema"
+  },
+  {
+    "key": "m03",
+    "n": 3,
+    "id": "DATA-L1-M03",
+    "title": "Lakehouse & Warehousing",
+    "dir": "m03-fabric-warehousing",
+    "dates": "Wed 28 – Thu 29 Oct 2026",
+    "week": 5,
+    "academySlug": "month-3-fabric-warehousing",
+    "gammaSlug": null,
+    "summary": "Spark and Delta Lake on MinIO with a PostgreSQL serving layer.",
+    "headlineMetric": "bronze/silver/gold"
+  },
+  {
+    "key": "m04",
+    "n": 4,
+    "id": "DATA-L1-M04",
+    "title": "Data Quality & Testing",
+    "dir": "m04-data-quality-testing",
+    "dates": "Wed 4 – Thu 5 Nov 2026",
+    "week": 6,
+    "academySlug": "month-4-data-quality-testing",
+    "gammaSlug": null,
+    "summary": "Data validation and pipeline testing with Great Expectations.",
+    "headlineMetric": "quality suite"
+  },
+  {
+    "key": "m05",
+    "n": 5,
+    "id": "DATA-L1-M05",
+    "title": "Python for Data Engineering",
+    "dir": "m05-python-data-engineering",
+    "dates": "Wed 11 – Thu 12 Nov 2026",
+    "week": 7,
+    "academySlug": "month-5-python-data-engineering",
+    "gammaSlug": null,
+    "summary": "PySpark and pandas processing patterns against MinIO object storage.",
+    "headlineMetric": "PySpark jobs"
+  },
+  {
+    "key": "m06",
+    "n": 6,
+    "id": "DATA-L1-M06",
+    "title": "End-to-End Platform (capstone)",
+    "dir": "m06-end-to-end-platform",
+    "dates": "Fri 13 – Sun 15 Nov 2026",
+    "week": 7,
+    "academySlug": "month-6-end-to-end-platform",
+    "gammaSlug": null,
+    "summary": "Capstone: an integrated data platform from raw CSV to a Superset dashboard.",
+    "headlineMetric": "CSV to dashboard"
+  }
+]
